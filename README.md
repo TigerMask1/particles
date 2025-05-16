@@ -50,3 +50,6 @@ Want to try them all? Use creative mode or /giveme particles:<type>_fruit.
 
 Enjoy leaving trails of beauty behind you!
 Perfect for festivals, minigames, roleplay, or just showing off.
+
+
+*code and readme written by me, enhanced by AI* 
