@@ -16,10 +16,10 @@ For 10 seconds, particles will appear near your feet as you walk or jump.
 Each fruit creates a different particle effect!
 
 ### 🍓 Available Fruits & Effects
-Fruit	Particle Style
-Sparkle Fruit	Shiny sparkles ✨
-Leaf Fruit	Falling leaves 🍃
-Flame Fruit	Flickering fire 🔥
+Fruit	Particle Style:
+Sparkle Fruit	Shiny sparkles ✨\n
+Leaf Fruit	Falling leaves 🍃 \n
+Flame Fruit	Flickering fire 🔥 
 Ice Fruit	Frosty crystals ❄️
 Rainbow Fruit	Colorful trail 🌈
 Music Fruit	Musical notes 🎵
