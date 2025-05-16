@@ -17,16 +17,27 @@ Each fruit creates a different particle effect!
 
 ### 🍓 Available Fruits & Effects
 Fruit	Particle Style:
-Sparkle Fruit	Shiny sparkles ✨\n
-Leaf Fruit	Falling leaves 🍃 \n
+
+Sparkle Fruit	Shiny sparkles ✨
+
+Leaf Fruit	Falling leaves 🍃 
+
 Flame Fruit	Flickering fire 🔥 
+
 Ice Fruit	Frosty crystals ❄️
+
 Rainbow Fruit	Colorful trail 🌈
+
 Music Fruit	Musical notes 🎵
+
 Petals Fruit	Floating flower petals 🌸
+
 Heart Fruit	Lovely hearts ❤️
+
 Apple Fruit	Classic apple chunks 🍎
+
 diamond fruit for rich bros 
+
 mese fruit for techos!
 
 
